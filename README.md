@@ -13,13 +13,15 @@ avec 22 000 poulets de 2 kg, et qu'est-ce que des pads de cooling changent ?
 
 ![canicule sans cooling](figures/ambiance_canicule_sans_cooling.png)
 
-Cinq jours de canicule synthétique, maxima de 36 à 40 °C. Sans cooling,
-l'air intérieur dépasse l'extérieur de 1 à 2 °C au plus chaud de la journée
-(la ventilation est à fond, les animaux ajoutent leur chaleur) et de 6 °C la
-nuit, quand la ventilation redescend. Les mêmes jours avec des pads à 70 %
-d'efficacité donnent un maximum intérieur de 33 °C au lieu de 41,6 °C
-(`figures/ambiance_canicule_avec_pads.png`), et une humidité plus haute, c'est le prix
-du refroidissement évaporatif.
+Cinq jours de canicule synthétique, maxima de 37 à 41 °C. Sans cooling,
+l'air intérieur dépasse l'extérieur de 1 à 1,5 °C au plus chaud de la journée
+(la ventilation est à fond, les animaux ajoutent leur chaleur) et jusqu'à 6 °C
+la nuit, quand la ventilation redescend ; il passe 57 h au-dessus de 30 °C.
+Les mêmes jours avec des pads à 70 % d'efficacité donnent un maximum intérieur
+de 33,2 °C au lieu de 41,7 °C et 31 h au-dessus de 30 °C
+(`figures/ambiance_canicule_avec_pads.png`), avec une humidité plus haute,
+autour de 63 % l'après-midi contre 34 % sans cooling : c'est le prix du
+refroidissement évaporatif.
 
 ## Lancer
 
